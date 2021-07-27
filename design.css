@@ -1,0 +1,43 @@
+#os_review_chart,crosshair,logarithm,zoom{
+  height: 100%;
+  width: 100%;
+  margin: 0px auto;
+}
+#pie_container{
+  position:absolute;
+  height: 70%;
+  width: 45%;
+  top :30%; 
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
+#crosshair_container{
+  left:50%;
+  top :30%; 
+  position:absolute;
+  height: 70%;
+  width: 45%;
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
+#logarithm_container{
+  position:absolute;
+  top :110%; 
+  height: 64%;
+  width: 45%;
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
+#zoom_container{
+  left:50%;
+  top :110%; 
+  position:absolute;
+  height: 70%;
+  width: 45%;
+  margin: 0px auto;
+  border:7px solid black;
+  border-radius:7px;
+}
